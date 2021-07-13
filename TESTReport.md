@@ -7,8 +7,8 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Дефект 1](https://github.com/KseniaShepherd/KeyValidator/issues/1)
-* [Дефект 2](https://github.com/KseniaShepherd/KeyValidator/issues/2)
+* [Ошибка валидации при вводе всех валидных ключей в команду KeyValidator при работе через командную строку.](https://github.com/KseniaShepherd/KeyValidator/issues/1)
+* [Ошибка валидации при вводе всех невалидных ключей в команду KeyValidator при работе через командную строку.](https://github.com/KseniaShepherd/KeyValidator/issues/2)
 
 
 ## Описание процесса тестирования
